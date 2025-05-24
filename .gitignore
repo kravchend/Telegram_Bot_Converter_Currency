@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 secrets.py
+.idea/
 
 # Distribution / packaging
 .Python

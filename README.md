@@ -13,8 +13,8 @@
 
 1. Клонируйте репозиторий и перейдите в каталог проекта:
     ```bash
-    git clone <ссылка-на-репозиторий>
-    cd <название-папки>
+    git clone <https://github.com/kravchend?tab=repositories>
+    cd <Telegram_Bot_Converter_Currency>
     ```
 
 2. Установите зависимости:
